@@ -1,11 +1,11 @@
 # Gold-Return-Prediction
 I have been a student of financial market for over a decade and have been studying different asset classes and their behavior in different economic conditions. There are very few asset classes which have as polarized opinions as Gold. There people who love it, then few who hate, and more often than not, they remain in the same camp. Since Gold has very little fundamentals of its own (again source of polarization), in this multi-part series I will try to a predict Gold Price returns using several Machine Learning Techniques. Listed below is how I (currently) envisage the series to be:
 
-***Part I   : Defining the approach, gathering and preparing data
-Part II : Regression modelling using PyCaret
-Part III: Classification modelling using PyCaret
-Part IV: Time Series modelling using Prophet (Facebook)
-Part V : Evaluating integration of approaches***
+***Part I   : Defining the approach, gathering and preparing data***
+***Part II : Regression modelling using PyCaret***
+***Part III: Classification modelling using PyCaret***
+***Part IV: Time Series modelling using Prophet (Facebook)***
+***Part V : Evaluating integration of approaches***
 
 ##Approach
 
