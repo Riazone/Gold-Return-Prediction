@@ -11,13 +11,13 @@ I have been a student of financial market for over a decade and have been studyi
 
 ***Part V : Evaluating integration of approaches***
 
-##Approach
+## Approach
 
 In the series we will take different approaches to predict return from Gold prices using Machine learning. We will use supervised learning methods of regression and classification. We will then use Time Series methods. And then finally we will try to integrate them to see if their predictive powers increases due to integration.
 
 First we will go the regression route to predict future returns of Gold over next 2 weeks and 3 weeks period. We will do this by using historical returns of different instruments which I believe impact the outlook towards Gold. The fundamental reason is, I term Gold as a 'reactionary' asset. It has little fundamentals of its own and movement in prices often is a derivative of how investors view other asset classes (equities, commodities etc.)
 
-##Importing Data
+## Importing Data
 
 For this and subsequent exercises we will need closing price of several instruments for past 10 years . There are various paid (Reuters, Bloomberg) and free resources (IEX, Quandl, Yahoofinance, Google finance) that we can use to import data. Since this project needed different type of asset classes (Equities, Commodities, Debt and precious metals) I found the 'yahoofinancials' package to be very helpful and straight forward.
 
